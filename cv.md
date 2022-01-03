@@ -18,7 +18,12 @@ function even_or_odd(number) {
 }
 ```
 ## Education
-* ### __University:__ ### Belarusian State Economic University (Business Communication School)
-* ### __Courses:
+* ### __University:__ Belarusian State Economic University (Business Communication School)
+* ### __Courses:__
      + ### HTML&CSS
      + ### JavaScript (in process)
+## Languages
+* ### Russian (native)
+* ### Belarussian (native)
+* ### English (upper-intermediate)
+* ### German (elementary)
